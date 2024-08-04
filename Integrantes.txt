@@ -1,0 +1,15 @@
+PRACTICA 1 
+MODULO 6 - VUE3
+
+NOMBRE DE INTEGRANTES
+	Mónica Juana Rodriguez Flores
+	Marlen Martha Gutierrez Limachi
+	María del Rosario Nina Yucra
+	
+
+PASOS PARA INICIAR EL PROYECTO
+	1. npm install
+	2. npm run serve
+
+
+
